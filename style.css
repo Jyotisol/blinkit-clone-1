@@ -53,10 +53,6 @@
     width: 85%;
 }
 
-.text{
-    padding: 100%;
-}
-
 ::-webkit-scrollbar{
     display: none;
 }
